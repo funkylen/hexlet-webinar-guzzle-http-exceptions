@@ -1,0 +1,12 @@
+{
+    "name": "v.giliazetdinov/webinar-guzzle-http",
+    "authors": [
+        {
+            "name": "funkylen",
+            "email": "funkylen@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
